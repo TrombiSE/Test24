@@ -1,0 +1,40 @@
+ul li{
+    color: red;
+    text-decoration: underline;
+    font-size: 28px;
+}
+ol li {
+    color: rgb(53, 204, 7);
+    font-size: 28px;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+}
+a{
+    text-align: center;
+}
+.asd{
+    position: absolute;
+    margin-left: 28%;
+    margin-top: 20px;
+}
+.dsa{
+    position: absolute;
+}
+.qwe{
+    margin-top: 0%;
+    margin-left: 70%;
+}
+.zxc{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+.nav li{
+    display: inline;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
